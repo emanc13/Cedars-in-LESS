@@ -1,2 +1,2 @@
-# Cedars-in-LESS
+# Cedar-Trees
 A.I. art remade in LESS
